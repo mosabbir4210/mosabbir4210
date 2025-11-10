@@ -22,7 +22,7 @@ Love learning and teaching about **networking, servers, and cybersecurity**.
 ### 📚 **Currently Learning**
 - Microsoft Azure (AZ-104)  
 - Ethical Hacking & Security  
-- SQL for Automation  
+- PYTHON for Automation  
 
 ---
 
