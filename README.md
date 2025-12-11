@@ -5,9 +5,9 @@
 ---
 
 👨‍💻 **About Me**  
-I’m a passionate system & network engineer from **Bangladesh 🇧🇩**.  
+I’m a passionate System & Cloud engineer from **Bangladesh 🇧🇩**.  
 Currently working at **BG Collection Ltd**, exploring **Microsoft 365, Azure Cloud, and Automation**.  
-Love learning and teaching about **networking, servers, and cybersecurity**.  
+Love learning and teaching about **System,networking, servers, and cybersecurity**.  
 
 ---
 
