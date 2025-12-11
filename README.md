@@ -1,5 +1,5 @@
 # Hi 👋, I'm MD Abdulla Al Mosabbir  
-### 🧑‍💻 System & Network Engineer | Microsoft Learn Student Ambassador | Azure & Security Enthusiast  
+### 🧑‍💻 System & Network Engineer | Azure & Security Enthusiast  
 
 
 ---
