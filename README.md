@@ -1,22 +1,47 @@
-# Hi 👋, I'm MD Abdulla Al Mosabbir  
-### 🧑‍💻 System & Network Engineer | Azure & Security Enthusiast  
+Hi 👋, I'm MD Abdulla Al Mosabbir  
 
+System & Network Engineer | Azure Cloud & Infrastructure  
+
+I design, deploy, and manage secure IT infrastructure using  
+Windows Server, Microsoft 365, Azure Cloud, and network automation.
+
+Currently working at **BG Collection Ltd**, supporting production systems,  
+cloud services, and enterprise networks.
 
 ---
 
 👨‍💻 **About Me**  
 I’m a passionate System & Cloud engineer from **Bangladesh 🇧🇩**.  
-Currently working at **BG Collection Ltd**, exploring **Microsoft 365, Azure Cloud, and Automation**.  
 Love learning and teaching about **System,networking, servers, and cybersecurity**.  
+
+## 🔧 What I Do
+
+- Deploy and manage **Windows Server & Active Directory**
+- Configure **Microsoft 365** (Users, Mail, Security)
+- Build **Azure-based systems** (VMs, App Service, Networking)
+- Monitor servers and networks using **Zabbix & Grafana**
+- Automate routine tasks with **PowerShell & Python**
 
 ---
 
 ### 🛠️ **Skills**
-- 🖥️ Windows Server Administration  
-- 🌐 MikroTik, VLAN, Firewall, VPN  
-- ☁️ Microsoft 365 & Azure Administration  
-- 🧠 PowerShell & Python Automation  
-- 🔒 Network Security & Monitoring (Zabbix, Grafana)  
+-## 🛠️ Technical Skills
+
+**System & Network**
+- Windows Server, Active Directory, Group Policy
+- MikroTik, VLAN, Firewall, VPN
+
+**Cloud & Microsoft**
+- Microsoft 365 Administration
+- Azure VM, Networking, App Service
+
+**Automation & Monitoring**
+- PowerShell, Python (basic automation)
+- Zabbix, Grafana
+
+**Security**
+- Server hardening
+- Network security fundamentals
 
 ---
 
