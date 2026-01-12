@@ -36,6 +36,36 @@
 
 <hr>
 
+<!-- ================= CONNECT ================= -->
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="mailto:mosabbirmridu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/mosabbirmridu">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://learn.microsoft.com/users/MosabbirMridu/">
+    <img src="https://img.shields.io/badge/Microsoft%20Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/mosabbir4210">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>"Solve real problems. Keep learning."</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting! Feel free to explore my repositories and reach out.
+</p>
+
 <!-- ================= WHAT I DO ================= -->
 
 <h2 align="center">🔧 What I Do</h2>
@@ -101,35 +131,7 @@
 
 <hr>
 
-<!-- ================= CONNECT ================= -->
 
-<h2 align="center">🌐 Connect With Me</h2>
-
-<p align="center">
-  <a href="mailto:mosabbirmridu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/mosabbirmridu">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://learn.microsoft.com/users/MosabbirMridu/">
-    <img src="https://img.shields.io/badge/Microsoft%20Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/mosabbir4210">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <i>"Solve real problems. Keep learning."</i>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting! Feel free to explore my repositories and reach out.
-</p>
 
 ---
 
