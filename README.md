@@ -1,5 +1,5 @@
 ### Hi 👋, I'm MD Abdulla Al Mosabbir  
-<h2 align="center">Hi 👋, I'm MD Abdulla Al Mosabbir</h2>
+<h2 align="corner">Hi 👋, I'm MD Abdulla Al Mosabbir</h2>
 System & Network Engineer | Azure Cloud & Infrastructure  
 
 I design, deploy, and manage secure IT infrastructure using  
