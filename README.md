@@ -55,7 +55,7 @@ and continuously improve my skills in cloud, automation, and security.
 
 <p align="center">
   <i>
-    "Write clean code, solve real problems, keep learning."
+    "solve real problems, keep learning."
   </i>
 </p>
 
