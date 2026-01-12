@@ -29,6 +29,11 @@ and continuously improve my skills in cloud, automation, and security.
 - Automate routine IT tasks with **PowerShell & Python**
 
 ---
+🌐 Connect With Me
+<div align="center"> <a href="mailto:mosabbirmridu@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> &nbsp; <a href="https://linkedin.com/in/mosabbirmridu"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> &nbsp; <a href="https://learn.microsoft.com/users/MosabbirMridu/"> <img src="https://img.shields.io/badge/Microsoft%20Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/> </a> &nbsp; <a href="https://github.com/mosabbir4210"> <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
+
+
+
 
 ## 🛠️ Technical Skills
 
