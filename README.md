@@ -77,48 +77,55 @@ and continuously improve my skills in cloud, automation, and security.
 
 
 
-## 🛠️ Technical Skills
+<!-- ================= TECHNICAL PROFILE ================= -->
 
-### **System & Network**
-- Windows Server, Active Directory, Group Policy
-- MikroTik, VLAN, Firewall, VPN
+<h2 align="center">🛠️ Technical Skills</h2>
 
-### **Cloud & Microsoft**
-- Microsoft 365 Administration
-- Azure VM, Networking, App Service
+### 🖥️ System & Network Administration
+- Windows Server (User, Role & Policy Management)
+- Active Directory, Group Policy (GPO)
+- MikroTik (Routing, VLAN, Firewall, VPN)
+- LAN/WAN Design & Troubleshooting
 
-### **Automation & Monitoring**
-- PowerShell, Python (basic automation)
-- Zabbix, Grafana
+### ☁️ Cloud & Microsoft Technologies
+- Microsoft 365 Administration (Users, Mail, Security)
+- Microsoft Azure:
+  - Virtual Machines (VM)
+  - Virtual Networking (VNet, NSG)
+  - App Service Deployment
 
-### **Security**
-- Server hardening
-- Network security fundamentals
+### 🤖 Automation & Monitoring
+- PowerShell (Administrative Automation)
+- Python (Basic Automation & Scripting)
+- Monitoring & Observability:
+  - Zabbix
+  - Grafana
+
+### 🔐 Security Fundamentals
+- Server Hardening (Linux & Windows)
+- Network Security Fundamentals
+- Access Control & Best Practices
 
 ---
 
-## 📚 Currently Learning
-- Microsoft Azure (AZ-104)
-- Ethical Hacking & Security
-- Python for Automation
+<h2 align="center">📚 Currently Learning</h2>
+
+- Microsoft Azure Administrator (AZ-104)
+- Ethical Hacking & Cybersecurity
+- Python for Infrastructure Automation
 
 ---
 
-## 📌 Focus Areas
+<h2 align="center">📌 Focus Areas</h2>
 
 - System & Network Administration
-- Microsoft 365 & Azure Cloud
-- Server Deployment & Hardening
-- Infrastructure Monitoring
-- Automation & IT Operations
+- Microsoft 365 & Azure Cloud Infrastructure
+- Server Deployment, Hardening & Security
+- Infrastructure Monitoring & Alerting
+- Automation for IT Operations
 
----
+<!-- ===================================================== -->
 
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/mosabbirmridu)  
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-0078D4?logo=microsoft)](https://learn.microsoft.com/users/MosabbirMridu/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/mosabbir4210)
 
 ---
 
