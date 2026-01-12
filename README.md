@@ -1,4 +1,4 @@
-<!-- ================= PROFESSIONAL INTRO ================= -->
+<!-- ================= HERO SECTION ================= -->
 
 <h1 align="center">Hi 👋, I'm <b>MD Abdulla Al Mosabbir</b></h1>
 
@@ -7,12 +7,10 @@
 </h3>
 
 <p align="center">
-  I design, deploy, and manage <b>secure, scalable IT infrastructure</b><br>
+  I design, deploy, and manage <b>secure, scalable, and reliable IT infrastructure</b><br>
   using <b>Windows Server</b>, <b>Microsoft 365</b>, <b>Azure Cloud</b>, and
   <b>network automation</b>.
 </p>
-
-<hr>
 
 <p align="center">
   🏢 <b>Currently working at:</b> BG Collection Ltd<br>
@@ -20,87 +18,48 @@
   <b>enterprise networks</b>
 </p>
 
-<!-- ======================================================= -->
+<hr>
 
-
----
 <!-- ================= ABOUT ME ================= -->
-<h2 align="center">🌐 ABOUT ME</h2>
 
-I am a System & Cloud Engineer from **Bangladesh 🇧🇩** with hands-on experience  
-in managing servers, enterprise networks, and cloud infrastructure.
+<h2 align="center">🌐 About Me</h2>
 
-I focus on building **reliable, secure, and scalable IT systems**  
-and continuously improve my skills in cloud, automation, and security.
+<p align="center">
+  I am a <b>System & Cloud Engineer</b> from <b>Bangladesh 🇧🇩</b> with hands-on experience<br>
+  in managing <b>servers</b>, <b>enterprise networks</b>, and <b>cloud infrastructure</b>.
+</p>
 
----
+<p align="center">
+  I focus on building <b>secure, scalable, and well-monitored systems</b><br>
+  and continuously improving my skills in <b>cloud</b>, <b>automation</b>, and <b>security</b>.
+</p>
 
-## 🔧 What I Do
+<hr>
+
+<!-- ================= WHAT I DO ================= -->
+
+<h2 align="center">🔧 What I Do</h2>
 
 - Deploy and manage **Windows Server & Active Directory**
 - Configure and support **Microsoft 365** (Users, Mail, Security)
-- Build and maintain **Azure-based systems** (VMs, App Service, Networking)
+- Design and maintain **Azure-based infrastructure** (VMs, Networking, App Services)
 - Monitor servers and networks using **Zabbix & Grafana**
-- Automate routine IT tasks with **PowerShell & Python**
-
----
-<!-- ================= CONNECT WITH ME ================= -->
-
-<h2 align="center">🌐 Connect With Me</h2>
-
-<p align="center">
-  <a href="mailto:mosabbirmridu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/mosabbirmridu">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://learn.microsoft.com/users/MosabbirMridu/">
-    <img src="https://img.shields.io/badge/Microsoft%20Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/mosabbir4210">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+- Automate routine IT operations using **PowerShell & Python**
 
 <hr>
 
-<p align="center">
-  <i>
-    "solve real problems, keep learning."
-  </i>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting! Feel free to explore my repositories and reach out.
-</p>
-
-<hr>
-
-<p align="center">
-  🚀 <b>System & Network Engineer</b> &nbsp;|&nbsp;
-  ☁️ <b>Cloud & Azure Learner</b> &nbsp;|&nbsp;
-  🛠️ <b>Hands-on Projects</b>
-</p>
-
-
-
-
-<!-- ================= TECHNICAL PROFILE ================= -->
+<!-- ================= TECHNICAL SKILLS ================= -->
 
 <h2 align="center">🛠️ Technical Skills</h2>
 
 ### 🖥️ System & Network Administration
-- Windows Server (User, Role & Policy Management)
-- Active Directory, Group Policy (GPO)
+- Windows Server (Roles, Users, Policies)
+- Active Directory & Group Policy (GPO)
 - MikroTik (Routing, VLAN, Firewall, VPN)
 - LAN/WAN Design & Troubleshooting
 
 ### ☁️ Cloud & Microsoft Technologies
-- Microsoft 365 Administration (Users, Mail, Security)
+- Microsoft 365 Administration
 - Microsoft Azure:
   - Virtual Machines (VM)
   - Virtual Networking (VNet, NSG)
@@ -108,25 +67,29 @@ and continuously improve my skills in cloud, automation, and security.
 
 ### 🤖 Automation & Monitoring
 - PowerShell (Administrative Automation)
-- Python (Basic Automation & Scripting)
+- Python (Basic Infrastructure Automation)
 - Monitoring & Observability:
   - Zabbix
   - Grafana
 
 ### 🔐 Security Fundamentals
-- Server Hardening (Linux & Windows)
+- Windows & Linux Server Hardening
 - Network Security Fundamentals
 - Access Control & Best Practices
 
----
+<hr>
+
+<!-- ================= CURRENT LEARNING ================= -->
 
 <h2 align="center">📚 Currently Learning</h2>
 
-- Microsoft Azure Cloud
+- Microsoft Azure (AZ-104)
 - Ethical Hacking & Cybersecurity
 - Python for Infrastructure Automation
 
----
+<hr>
+
+<!-- ================= FOCUS AREAS ================= -->
 
 <h2 align="center">📌 Focus Areas</h2>
 
@@ -136,9 +99,38 @@ and continuously improve my skills in cloud, automation, and security.
 - Infrastructure Monitoring & Alerting
 - Automation for IT Operations
 
-<!-- ===================================================== -->
+<hr>
 
+<!-- ================= CONNECT ================= -->
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="mailto:mosabbirmridu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/mosabbirmridu">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://learn.microsoft.com/users/MosabbirMridu/">
+    <img src="https://img.shields.io/badge/Microsoft%20Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/mosabbir4210">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>"Solve real problems. Keep learning."</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting! Feel free to explore my repositories and reach out.
+</p>
 
 ---
 
-⭐️ *From [mosabbir4210](https://github.com/mosabbir4210)*
+⭐️ From <a href="https://github.com/mosabbir4210">mosabbir4210</a>
