@@ -1,4 +1,3 @@
-### Hi 👋, I'm MD Abdulla Al Mosabbir  
 <h2 align="corner">Hi 👋, I'm MD Abdulla Al Mosabbir</h2>
 System & Network Engineer | Azure Cloud & Infrastructure  
 
