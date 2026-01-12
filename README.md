@@ -71,9 +71,6 @@ and continuously improve my skills in cloud, automation, and security.
   🛠️ <b>Hands-on Projects</b>
 </p>
 
-<!-- =================================================== -->
-
-
 
 
 
@@ -110,7 +107,7 @@ and continuously improve my skills in cloud, automation, and security.
 
 <h2 align="center">📚 Currently Learning</h2>
 
-- Microsoft Azure Administrator (AZ-104)
+- Microsoft Azure Cloud
 - Ethical Hacking & Cybersecurity
 - Python for Infrastructure Automation
 
